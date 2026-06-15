@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-name="CIGNAL TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026",CIGNAL TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+
 #EXTINF:-1 tvg-name="TUDN SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026",TUDN SPORTS FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -28,13 +35,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/
 #KODIPROP:inputstream.adaptive.license_key=7df8abb70d323cfaedde886793f3add0:4a31721d34351ef6a63f81d51bae45df
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/l0qqwxo6sc/out/v1/ba9e2a12afb54ab692464f9b7e72b0ba/cenc-sd.mpd
 
-#EXTINF:-1 tvg-name="CIGNAL TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026",CIGNAL TV
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
-
 #EXTINF:-1 tvg-name="FRANCE TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026",FRANCE TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -62,6 +62,8 @@ https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
 
+
+
 #EXTINF:-1 tvg-name="BEIN 1 FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026",BEIN 1 FHD
 http://1.la5liga.store:80/play/oOuLyOr0l4zfSQqe-48swyrUC_d5JG7Wj1gX3MfuOaHcCaCD-hqEbP027yBVHqJ4
 #EXTINF:-1 tvg-name="BEIN 4 MAX FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026",BEIN 4 MAX FHD
@@ -73,10 +75,6 @@ http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=GL6h-5KFWoH5-xlxp4a
 #EXTINF:-1 tvg-name="BEIN 1 FHD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026",BEIN 1 FHD
 http://1.la5liga.store:80/play/oOuLyOr0l4zfSQqe-48swyrUC_d5JG7Wj1gX3MfuOaHcCaCD-hqEbP027yBVHqJ4
 
-
-#EXTINF:-1 tvg-name="TVRI INDO" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026",TVRI INDO
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
 #EXTINF:-1 tvg-name="Bein Sports Max 1" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026",Bein Sports Max 1
 http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=XgTsAjb1QkrYQQnjbPWlsw&e=1781176238|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
@@ -85,10 +83,15 @@ http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=GL6h-5KFWoH5-xlxp4a
 #EXTINF:-1 tvg-name="Bein Sports Max 3" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026",Bein Sports Max 3
 http://het107a.ycn-redirect.com/live/33523510/index.m3u8?t=D3ELE-i9GsmOuKSnXG0bOQ&e=1781182200|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
+
+
+
+
 #EXTINF:-1 tvg-name="Caze TV BR" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026",Caze TV BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-
+#EXTINF:-1 tvg-name="TVRI INDO" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026",TVRI INDO
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-chno="1433" tvg-name="Zee Bangla Sonar (FIFA BANGLA COMMENTARY)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026",Zee Bangla Sonar (FIFA BANGLA COMMENTARY)
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
