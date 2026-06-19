@@ -115,7 +115,7 @@ http://1.la5liga.store:80/play/oOuLyOr0l4zfSQqe-48swyrUC_d5JG7Wj1gX3MfuOaHcCaCD-
 #EXTINF:-1 data-source="Manual" group-title="FIFA WC 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="662a45a3228fee015f53b3c37dd805a1", FUSSEBALL TV 1 GERMANY 4K
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="FIFA WC 2026",CH5
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="FIFA WC 2026",FUSSEBALL TV 1
 http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
 
 #EXTINF:-1 data-source="Manual" group-title="FIFA WC 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="6b232b464d32a714320dc85a1ece2c8b", FUSSEBALL TV 2 GERMANY FHD
@@ -143,28 +143,6 @@ http://starhub.pro/live/farhat-3379/67897-913379/744524.ts
 http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="FIFA WC 2026" ,Football World Cup 2026
-http://172.31.235.10:8080/hls/1-btv/0_1/index.m3u8?tkn=55672317
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="FIFA WC 2026" ,Football World Cup 2026
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-https://test.movielinkbd.com/storage/relay/test/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg"group-title="Football World Cup 2026",Football World Cup 2026
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-
-
-
-
-
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg" group-title="FIFA WC 2026", BeIN Sports 1 Direct
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
@@ -175,6 +153,12 @@ http://het4444.ycn-redirect.com/live/610303030/index.m3u8?t=XgTsAjb1QkrYQQnjbPWl
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Logo-beinsports-max-2.png" group-title="FIFA WC 2026",BeIN Sports Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 http://het4444.ycn-redirect.com/live/1515000000/index.m3u8?t=GL6h-5KFWoH5-xlxp4aZqw&e=1781180635
+
+
+
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="FIFA WC 2026",TVP Sport
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
 
 
