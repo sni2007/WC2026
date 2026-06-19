@@ -115,7 +115,7 @@ http://1.la5liga.store:80/play/oOuLyOr0l4zfSQqe-48swyrUC_d5JG7Wj1gX3MfuOaHcCaCD-
 #EXTINF:-1 data-source="Manual" group-title="FIFA WC 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="662a45a3228fee015f53b3c37dd805a1", FUSSEBALL TV 1 GERMANY 4K
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="FIFA WC 2026",FUSSEBALL TV 1
+#EXTINF:-1 data-source="Manual" group-title="FIFA WC 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="566e3277396a8a614d3e8d747acbbf28",Fusseball TV1 GERMANY FHD
 http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
 
 #EXTINF:-1 data-source="Manual" group-title="FIFA WC 2026" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="6b232b464d32a714320dc85a1ece2c8b", FUSSEBALL TV 2 GERMANY FHD
@@ -214,8 +214,6 @@ http://172.16.29.2:8090/hls/tsportshd3rd.m3u8
 
 #EXTINF:-1 group-logo="https://media.printables.com/media/prints/0bdffa47-dfb0-4627-82d5-6d33910345d6/images/11799201_a65e53c9-99ca-43f1-bf95-53177389b930_f8037f07-2124-4233-819b-c086eb50638f/thumbs/cover/800x800/png/fifa-world-cup-2026-logo-png_seeklogo-647736.png" group-title="Backup-Worldcup"
 
-#EXTINF:-1 data-source="Manual" group-title="Backup-Worldcup" tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" tvg-uid="566e3277396a8a614d3e8d747acbbf28",Fusseball TV1 GERMANY FHD
-http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
 
 #EXTINF:-1 tvg-id="TelemundoEast.us" group-title="Backup-Worldcup", WC2026 Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
